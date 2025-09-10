@@ -1,4 +1,4 @@
-# ZamZama Beauty Parlor – Website
+# ZamZama Beauty Parlor
 
 A professionally designed web application for **ZamZama Beauty Parlor**, offering a smooth and engaging digital experience for customers seeking beauty services such as bridal makeup, hair styling, facials, and mehndi. The website includes a modern landing page, image gallery, service highlights, testimonials, and integrated booking/contact forms.
 
@@ -86,7 +86,7 @@ The application is designed for easy deployment on platforms like Replit or any 
 
 ## Live Preview
 
-\*https://zamzamabp.vercel.app/
+https://zamzamabp.vercel.app
 
 ---
 
